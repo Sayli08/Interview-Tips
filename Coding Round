@@ -2,7 +2,7 @@ Think out loud :
 
 Ask clarifying questions 
 Callout assumptions 
-Note: if you have limited time then you can say " I am asuming that for this problem if inout is negative then it should return null "
+Note: if you have limited time then you can say " I am assuming that for this problem if input is negative then it should return null "
 Explain the idea before coding using example
 Note : If you are explaining brute force approach then you can say "This is the basic approach and it can be optimized" "I think this could be good Approach"
 Edge cases
