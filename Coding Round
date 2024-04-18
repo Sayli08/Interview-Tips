@@ -17,3 +17,52 @@ Optimization
 Resources 
 
 1) Google: https://www.youtube.com/watch?v=XOtrOSatBoY
+
+
+Title: Mastering Coding Interviews: Step-by-Step Guide
+
+Note: Think Out Loud : Always verbalize your thought process. This shows your interviewer how you approach problems and that you're actively engaging with the question.
+
+Steps :
+
+• Ask Clarifying Questions
+Begin by ensuring you fully understand the problem. Ask questions to clarify any doubts. This demonstrates your attention to detail and ensures you're on the right track.
+
+• State Your Assumptions [ If time is less then start with assumptions which will do the step 1 for you as the interviewer will clarify the assumptions] 
+Clearly articulate any assumptions you're making about the problem. For example, you might say, "I'm going to assume that if the input is negative, we should return null, unless specified otherwise."
+
+• Present Your Initial Approach
+Before jumping into coding, describe your approach using a simple example. This should involve
+
+1) start with the problem statement 
+2) what algorithm/strategy you are planning to use?
+3) Mention the dat structure you are planning to use and where. explain efficiency wherever possible
+4) Walk through the API: mentioning inout parameters , Explain looping if involved and its outcome,
+5) Explain Handling of Edge Cases
+6) Highlight Efficiency and Optimizations
+7) Provide a Run-Through Example 
+8) Discuss time and space complexity 
+8) Discuss Potential Improvements or Limitations
+
+  If it’s a straightforward method, acknowledge it by saying, "This is a basic approach, which we might be able to optimize."
+
+• Discuss Edge Cases
+Highlight potential edge cases to show your thoroughness in covering different scenarios that might affect the program's functionality.
+
+• Define Input Parameters
+Explain what inputs your solution expects and how it handles unexpected inputs. This is crucial for API-related questions.
+
+• Code Walkthrough
+As you write your code, explain each step. This not only helps the interviewer follow along but also allows you to catch any errors as you go.
+
+• Example Walkthrough Using Code
+Use an example to walk through your code step-by-step. This shows your ability to link your written code back to the problem-solving process.
+
+• Analyze Time and Space Complexity
+Discuss the efficiency of your solution. Explain the time and space complexity of your approach, and why they matter.
+
+• Discuss Potential Optimizations
+If there's time, suggest ways to optimize your solution. This indicates advanced problem-solving skills and understanding of algorithmic efficiency.
+
+Conclusion: Recap and Feedback
+Summarize your solution briefly and ask for any feedback or alternative approaches. This shows openness to learning and improvement.
