@@ -7,6 +7,7 @@ Steps :
 - Ask clarifying questions : Begin by ensuring you fully understand the problem. Ask questions to clarify any doubts. This demonstrates your attention to detail and ensures you're on the right track.
 
 - Callout assumptions 
+Ex: I assume that  if the array is empty then  the api should return empty string ....
 
 Note: if you have limited time then you can say " I am assuming that for this problem if input is negative then it should return null "
 Explain the idea before coding using example
@@ -22,7 +23,8 @@ Before we start coding, it's essential to outline our approach using a specific 
   6. Example Run-Through: Provide a step-by-step example to illustrate how your solution works in practice.
   7. Complexity Analysis: Discuss the time and space complexities of your algorithm, providing a clear understanding of its scalability.
   8. Potential Improvements and Limitations: Outline any possible enhancements and acknowledge limitations, suggesting how they might be addressed in future iterations.
-
+EX:
+ To address this problem ,Let me start with a naive approach/straightforward approach.....
 Resources 
 1) Google: https://www.youtube.com/watch?v=XOtrOSatBoY
 
