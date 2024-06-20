@@ -25,6 +25,14 @@ Before we start coding, it's essential to outline our approach using a specific 
   8. Potential Improvements and Limitations: Outline any possible enhancements and acknowledge limitations, suggesting how they might be addressed in future iterations.
 EX:
  To address this problem ,Let me start with a naive approach/straightforward approach.....
+NOTE:
+- When explaining your algorithm, you can start directly by taking an example and demonstrating how you would reach the solution. 
+- This approach involves explaining each loop and its outcome for the given example. 
+- Alternatively, you can use pseudo-code to explain your solution, which I prefer since most interviews require a working solution. 
+- By using pseudo-code, you can quickly fill in the missing parts and run the solution effectively.
+
+
+
 Resources 
 1) Google: https://www.youtube.com/watch?v=XOtrOSatBoY
 
