@@ -1,4 +1,4 @@
-```markdown
+
 # Mastering Coding Interviews: Step-by-Step Guide
 
 **Note:** Think Out Loud: Always verbalize your thought process. This shows your interviewer how you approach problems and that you're actively engaging with the question.
@@ -39,4 +39,4 @@ Before we start coding, it's essential to outline our approach using a specific 
 
 ## Resources
 1. **Google TechTalk:** [TechTalk](https://www.youtube.com/watch?v=XOtrOSatBoY)
-```
+
